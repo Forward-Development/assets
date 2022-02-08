@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "link": "https://twitter.com/kulaq6/status/1490500161881010178",
+      "img": "https://pbs.twimg.com/media/FK9R_YNVEAAw3QE.jpg",
+      "likes": "46",
+      "retweet": "20",
+      "entries": "9",
+      "total": "75"
+    },
+    {
+      "id": "2",
+      "link": "https://twitter.com/jdffafgi/status/1490525766144065538",
+      "img": "https://pbs.twimg.com/media/FK9pR3NVcAIna36.jpg",
+      "likes": "38",
+      "retweet": "21",
+      "entries": "9",
+      "total": "68"
+    },
+    {
+      "id": "3",
+      "link": "https://twitter.com/joleza999/status/1487428978491072514",
+      "img": "https://pbs.twimg.com/media/FKRoxHUaQAI0hPv.jpg",
+      "likes": "37",
+      "retweet": "14",
+      "entries": "10",
+      "total": "61"
+    },
+    {
+      "id": "4",
+      "link": "https://twitter.com/armxy/status/1486890170792046594",
+      "img": "https://pbs.twimg.com/media/FKJ-nROaMAAnSqS.jpg",
+      "likes": "33",
+      "retweet": "15",
+      "entries": "12",
+      "total": "60"
+    },
+    {
+      "id": "5",
+      "link": "https://twitter.com/sukotto888/status/1488176309478236161",
+      "img": "https://pbs.twimg.com/media/FKcQdk_UYAI-9zG.jpg",
+      "likes": "32",
+      "retweet": "11",
+      "entries": "7",
+      "total": "50"
+    },
+    {
+      "id": "6",
+      "link": "https://twitter.com/babyssstiger/status/1487327763660955652",
+      "img": "https://pbs.twimg.com/media/FKQMPSiagAQQgUh.jpg",
+      "likes": "8",
+      "retweet": "8",
+      "entries": "9",
+      "total": "25"
+    },
+    {
+      "id": "7",
+      "link": "https://twitter.com/lilsistah8/status/1486018501945229313",
+      "img": "https://pbs.twimg.com/media/FJ9l5mgacAIX7l7.jpg",
+      "likes": "5",
+      "retweet": "4",
+      "entries": "8",
+      "total": "17"
+    },
+    {
+      "id": "8",
+      "link": "https://twitter.com/BallTwit2/status/1490362576135340033",
+      "img": "https://pbs.twimg.com/media/FK7U18-VEAI-FWi.jpg",
+      "likes": "6",
+      "retweet": "2",
+      "entries": "9",
+      "total": "17"
+    },
+    {
+      "id": "9",
+      "link": "https://twitter.com/alhadisiroj/status/1490714057342545922",
+      "img": "https://pbs.twimg.com/media/FLAUiAZVgAURhTi.jpg",
+      "likes": "7",
+      "retweet": "1",
+      "entries": "9",
+      "total": "17"
+    },
+    {
+      "id": "10",
+      "link": "https://twitter.com/RIN_GC2020/status/1486730675004657668",
+      "img": "https://pbs.twimg.com/media/FKHtIrGVQBAdRna.jpg",
+      "likes": "5",
+      "retweet": "2",
+      "entries": "9",
+      "total": "16"
+    }
+  ]
+}
